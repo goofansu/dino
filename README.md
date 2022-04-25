@@ -1,21 +1,4 @@
-# Dino
+# dino
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `dino` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:dino, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/dino>.
+一个命令行小游戏，角色取自女儿最近沉迷的故事《口袋爸爸之恐龙星球》。
 
